@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-
+cout<<"AAAAAA";
 system("pause>nul");
 return 0;
 }
