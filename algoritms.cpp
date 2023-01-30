@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-
+cout << "Andris Vagalis";
 system("pause>nul");
 return 0;
 }
